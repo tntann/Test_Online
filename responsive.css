@@ -88,6 +88,9 @@
   }
 
   .menu li {
+    display: flex;
     border-bottom: 1px solid #aaaaaa;
+    align-items: center;
+    justify-content: center;
   }
 }
